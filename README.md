@@ -119,11 +119,11 @@ Nếu có purchase:
 
 | Nhãn | Hành động |
 |---|---|
-| 🔴 Cut | Dừng ngay, reinvest vào ad/SP đang Scale |
-| ⚠️ ATC Signal | Giữ nguyên, theo dõi thêm 1–2 ngày |
-| ⬜ Testing | Giữ budget thấp, chờ đủ data |
-| ✅ Scale | Tăng budget, giữ nguyên những gì đang chạy |
-| 🔧 Optimize | Test creative mới, review giá |
+| Cut | Dừng ngay, reinvest vào ad/SP đang Scale |
+| ATC Signal | Giữ nguyên, theo dõi thêm 1–2 ngày |
+| Testing | Giữ budget thấp, chờ đủ data |
+| Scale | Tăng budget, giữ nguyên những gì đang chạy |
+| Optimize | Test creative mới, review giá |
 
 > **Note:** Đây là framework mô tả chung. Mỗi sản phẩm và chiến dịch sẽ có ngưỡng định nghĩa khác nhau — ví dụ sản phẩm giá cao có thể cần spend > $50 mới đủ data, hoặc ATC Rate threshold có thể khác tùy niche.
 
