@@ -95,6 +95,11 @@ Review phần tiếp cận — targeting và creative có đang đến đúng ng
 **Nếu drop ở Checkout → Purchase:**
 Review giá và sản phẩm — khách đã quan tâm nhưng không mua.
 
+Trong POD, khách bỏ ở bước này thường vì hai lý do chính:
+
+- **Giá ship cao hoặc delivery time dài** xuất hiện muộn ở bước checkout — khách bị bất ngờ và bỏ đơn. Để cạnh tranh được, cần chọn fulfillment partner có giá sản xuất thấp và giá ship thấp vì đây ảnh hưởng trực tiếp đến giá bán cuối và khả năng cạnh tranh trên sàn.
+- **Thiếu trust** tại thời điểm ra quyết định thanh toán — ít review, shop mới, không có social proof.
+
 > ATC Rate = ATC ÷ Reach
 
 ---
@@ -127,6 +132,13 @@ Nếu có purchase:
 
 > **Note:** Đây là framework mô tả chung. Mỗi sản phẩm và chiến dịch sẽ có ngưỡng định nghĩa khác nhau — ví dụ sản phẩm giá cao có thể cần spend > $50 mới đủ data, hoặc ATC Rate threshold có thể khác tùy niche.
 
+**Lưu ý khi Scale trong POD:**
+Khi volume đơn tăng nhanh — đặc biệt dịp lễ lớn (Christmas, Valentine, Mother's Day) — fulfillment partner phải đáp ứng được cả ba yếu tố:
+
+- **Giá sản xuất & ship thấp** để giữ margin khi scale
+- **Quy trình QC chặt chẽ** để giảm thiểu lỗi sản phẩm khi volume lớn
+- **Đơn vị vận chuyển nghiêm túc, đúng SLA** — dịp lễ ship chậm vài ngày có thể dẫn đến refund hàng loạt, ảnh hưởng trực tiếp đến ROAS thực tế
+
 ---
 
 ## Bước 4 — IMG vs VID
@@ -148,6 +160,16 @@ Không đợi cuối tuần hay cuối tháng mới review.
 - Ad/SP nào đạt → giữ và scale dần.
 - Ad/SP nào không đạt → tắt ngay, không để chạy thêm.
 - Reinvest ngân sách vừa giải phóng vào những gì đang hoạt động.
+
+**Ngoài ads metrics, track song song:**
+
+| Metric | Lý do cần theo dõi |
+|---|---|
+| Complaint rate | Sản phẩm lỗi, in sai, giao thiếu → ảnh hưởng review và trust |
+| Refund rate | Ship chậm dịp lễ hoặc sản phẩm không đúng mô tả → kéo revenue thực xuống dù ROAS trông ổn |
+| Fulfillment SLA | Đơn vị sản xuất có đúng deadline không — đặc biệt quan trọng khi đang scale mạnh |
+
+> ROAS cao nhưng refund nhiều thì revenue thực tế vẫn thấp. Ads tốt chỉ có giá trị khi operations phía sau đủ vững để giữ được đơn hàng đó.
 
 ---
 
